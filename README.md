@@ -15,9 +15,9 @@ The dataset was first loaded from a CSV file. Initial checks were done to unders
 - High discounts often led to losses, showing that over-discounting is not sustainable.
 
 # 💡 Recommendations
--Reconsider discount policies, especially in states or categories where they reduce profits.
--Promote and invest more in Technology products due to their high profitability.
--Focus on strengthening performance in high-profit regions like the West and East.
--Analyze loss-making states like Texas in more detail to improve operations.
--Use time-based trends (monthly and yearly) for better planning in inventory and sales strategy.
+- Reconsider discount policies, especially in states or categories where they reduce profits.
+- Promote and invest more in Technology products due to their high profitability.
+- Focus on strengthening performance in high-profit regions like the West and East.
+- Analyze loss-making states like Texas in more detail to improve operations.
+- Use time-based trends (monthly and yearly) for better planning in inventory and sales strategy.
 
