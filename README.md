@@ -7,12 +7,12 @@ This project analyzes sales data from a sample superstore to understand performa
 The dataset was first loaded from a CSV file. Initial checks were done to understand its size, structure, and types of values it contained. Columns like order date were converted to proper date formats, and data types were verified for accuracy. Duplicate rows were removed to avoid skewed results, and unnecessary columns such as "Row_ID" and "Product ID" were dropped. The dataset had no missing values. To improve the analysis, new columns were created, such as "Profit Margin", "Month", and "Year", allowing deeper insights into trends over time and profitability. Some potential outliers, especially in the profit column, were also identified during this phase.
 
 # 📊 Insights
--The Consumer segment had the highest number of orders and sales.
--Technology was the most profitable product category.
--Office Supplies had high sales but relatively low profit margins.
--The West and East regions performed better in both sales and profit compared to other regions.
--Some states like Texas and Illinois had high sales but negative profits.
--High discounts often led to losses, showing that over-discounting is not sustainable.
+- The Consumer segment had the highest number of orders and sales.
+- Technology was the most profitable product category
+- Office Supplies had high sales but relatively low profit margins.
+- The West and East regions performed better in both sales and profit compared to other regions.
+- Some states like Texas and Illinois had high sales but negative profits.
+- High discounts often led to losses, showing that over-discounting is not sustainable.
 
 # 💡 Recommendations
 -Reconsider discount policies, especially in states or categories where they reduce profits.
